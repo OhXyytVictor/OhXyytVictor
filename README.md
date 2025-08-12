@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=header"/>
 
-<h2 align="center">Olá, eu sou o José Victor Ramos Pinto Braga 💻</h2>
+<h2 align="center">Olá, eu sou o Victor Ramos 💻</h2>
 <h3 align="center">Contato: (11) 94378-9274 | jsvramos@live.com</h3>
 
 Sou um profissional de TI com formação em Programação de Jogos Digitais pela FIAP e uma base sólida em suporte técnico. Atualmente, meu foco é transformar ideias em soluções interativas e funcionais. Tenho experiência prática com Unreal Engine 5.3 e Unity, atuando no desenvolvimento de sistemas de combate, inteligência artificial, interfaces e otimização de performance.
