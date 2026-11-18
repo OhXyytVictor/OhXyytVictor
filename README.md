@@ -4,11 +4,24 @@ Oi, eu sou o Victor. Sou programador de jogos formado pela FIAP e hoje trabalho 
 
 Fora do expediente, continuo criando jogos, da Unreal Engine 5 ao Roblox, e projetos de dados com Python e SQL. Estou em busca de uma oportunidade como desenvolvedor júnior, de preferência em jogos ou aplicações interativas.
 
-[Jogos](#jogos) · [Dados e software](#dados-e-software) · [Ferramentas](#ferramentas) · [Carreira](#carreira) · [Contato](#contato)
+[Destaques](#destaques-e-reconhecimento) · [Jogos](#jogos) · [Dados e software](#dados-e-software) · [Ferramentas](#ferramentas) · [Carreira](#carreira) · [Contato](#contato)
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-EF4444?style=for-the-badge&logo=netlify&logoColor=white)](https://victorramos.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorramosbraga)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511918224456)
+
+---
+
+## Destaques e reconhecimento
+
+> [!IMPORTANT]
+> **Jurado Oficial de Games — Projeto Futuro Gamer (SPCine)**
+>
+> Atuei como jurado técnico em **2 edições consecutivas** do programa da SPCine voltado à aceleração de estúdios e novos talentos, avaliando mecânicas de jogo, game design, jogabilidade e execução técnica dos projetos.
+
+![FIAP](https://img.shields.io/badge/Formação-FIAP_Jogos_Digitais_2025-1E293B?style=flat-square)
+![Steam](https://img.shields.io/badge/Produção_Steam-Camp_Wars_(UE5)-1b2838?style=flat-square&logo=steam&logoColor=white)
+![SPCine](https://img.shields.io/badge/SPCine-Jurado_Oficial_2x-EF4444?style=flat-square)
 
 ---
 
@@ -25,6 +38,7 @@ Faço parte da programação da nova versão de Camp Wars, feita na Unreal Engin
 <a href="https://store.steampowered.com/app/1850930/Camp_Wars/"><img src="https://img.shields.io/badge/Ver_na_Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Ver na Steam"></a>
 
 `Unreal Engine 5` `Blueprints` `C++` `Multiplayer`
+
 </details>
 
 <details>
@@ -36,6 +50,7 @@ Um jogo de sobrevivência e ação que desenvolvi do zero como trabalho de concl
 <a href="https://ohxytvictor.itch.io/hopeless"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
 
 `Unreal Engine 5` `Blueprints` `IA`
+
 </details>
 
 <details>
@@ -45,6 +60,7 @@ Um jogo de sobrevivência e ação que desenvolvi do zero como trabalho de concl
 Um simulador em desenvolvimento ativo. Estou na equipe de programação, cuidando das mecânicas principais, e o jogo já foi apresentado em eventos da comunidade.
 
 `Gameplay` `Simulação`
+
 </details>
 
 <details>
@@ -56,6 +72,7 @@ Feito para a Game Jam da Global Solution 2, com apoio do Pacto Global, Ultragaz,
 <a href="https://ecoenergeek.itch.io/runovavel"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
 
 `Unity` `C#` `Game Jam`
+
 </details>
 
 <details>
@@ -67,6 +84,7 @@ Um roguelite de sobrevivência em ondas. Você evolui um arsenal de frutas, comb
 <a href="https://ohxytvictor.itch.io/monkeyco-demo"><img src="https://img.shields.io/badge/Jogar_a_demo-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar a demo"></a>
 
 `Unity` `C#` `Roguelite`
+
 </details>
 
 <details>
@@ -78,9 +96,8 @@ Meu primeiro projeto teste publicado no Roblox, escrito em Luau. Tem base de pes
 <a href="https://www.roblox.com/pt/games/86985334533764/Tycoon-de-Pesca-Fish-Tycoon"><img src="https://img.shields.io/badge/Jogar_no_Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Jogar no Roblox"></a>
 
 `Roblox Studio` `Luau` `DataStore`
-</details>
 
-> Também fui jurado oficial de jogos no Projeto Futuro Gamer, da SPCine, por duas edições seguidas.
+</details>
 
 ---
 
@@ -96,6 +113,7 @@ Montei o pipeline do zero: modelagem relacional, KPIs de vendas e logística, an
 <a href="https://github.com/OhXyytVictor/olist-ecommerce-analytics"><img src="https://img.shields.io/badge/Código-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
 
 `Python` `PostgreSQL` `SQL`
+
 </details>
 
 <details>
@@ -108,6 +126,7 @@ Puxo IPCA, Selic e dólar direto da API do Banco Central e organizo as séries d
 <a href="https://github.com/OhXyytVictor/dados-publicos-brasil"><img src="https://img.shields.io/badge/Código-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
 
 `Python` `REST API` `PostgreSQL`
+
 </details>
 
 <details>
@@ -120,6 +139,7 @@ Uma análise de 24 meses de um estúdio fictício: resultado por título, burn r
 <a href="https://github.com/OhXyytVictor/indie-game-studio-analytics"><img src="https://img.shields.io/badge/Código-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
 
 `SQL` `Analytics`
+
 </details>
 
 ---
@@ -134,19 +154,25 @@ Uma análise de 24 meses de um estúdio fictício: resultado por título, burn r
 
 ## Carreira
 
-**Técnico de Suporte Jr em Integração**, Grupo SC / Panpharma
-Outubro de 2026 até hoje
+### Experiência atual
+
+**Técnico de Suporte Jr em Integração** — Grupo SC / Panpharma `Out 2026 – Atualmente`
+
+Atuo no setor de Integração de Pedido Eletrônico, acompanhando a comunicação entre sistemas (EDI e APIs), realizando diagnóstico de falhas e prestando suporte técnico especializado.
 
 <details>
-<summary>Experiências anteriores</summary>
+<summary><b>Experiências anteriores</b></summary>
 <br>
 
-**Analista de Suporte OnSite Sr.**, IT.ALL · 2023 a 2026
-**Analista de Help Desk**, Exago Innovation · 2023 a 2024
-**Help Desk de TI**, Malta Assessoria de Cobrança · 2021 a 2022
+- **Analista de Suporte OnSite Sr.** — IT.ALL `Set 2023 – 2026`
+- **Analista de Help Desk de TI** — Exago Innovation `Jan 2023 – Fev 2024`
+- **Help Desk de TI** — Malta Assessoria de Cobrança `Jun 2021 – Abr 2022`
+
 </details>
 
-**Formação:** Tecnólogo em Programação de Jogos Digitais, FIAP (2025)
+### Formação acadêmica
+
+- **Tecnólogo em Programação de Jogos Digitais** — FIAP `Concluído em 2025`
 
 ---
 
@@ -161,15 +187,14 @@ Para ligações, use o (11) 94378-9274. Por e-mail: jsvramos@live.com.
 <summary><b>English version</b></summary>
 <br>
 
-Hi, I'm Victor. I'm a game programmer with a degree from FIAP, currently working as an IT Support Technician in system integration at Grupo SC.
+Hi, I'm Victor. I'm a game programmer with a degree from FIAP, currently working as an IT Support Technician in system integration at Grupo SC (handling EDI and APIs for electronic order integration).
 
-On my own time I keep building games, from Unreal Engine 5 to Roblox, plus data projects with Python and SQL. I'm looking for a junior developer role, ideally in games or interactive applications.
+**Highlights:** Served as an Official Game Jury Member for **SPCine's Projeto Futuro Gamer** in 2 consecutive editions; graduated in Digital Game Programming at FIAP (2025); currently programming on **Camp Wars** (Unreal Engine 5 / Steam).
 
 **Games:** Camp Wars (Unreal Engine 5 / Steam), HopeLess (Unreal Engine 5, my solo capstone), Agiota BR Simulator, Runovável (Unity), Monkeyco (Unity roguelite demo) and Fish Tycoon (Roblox).
 
 **Data:** Olist e-commerce analytics, Brazilian Central Bank data pipeline and an indie studio financial analysis.
 
-I also served as an official game jury member for SPCine's Futuro Gamer program, two editions in a row.
-
 **Contact:** WhatsApp +55 11 91822-4456 · Calls +55 11 94378-9274 · jsvramos@live.com
+
 </details>
