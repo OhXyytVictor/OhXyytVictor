@@ -1,63 +1,68 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=header"/>
+# Victor Ramos
 
-<h2 align="center">Olá, eu sou o Victor Ramos 💻</h2>
-<h3 align="center">Contato: (11) 94378-9274 | jsvramos@live.com</h3>
+**Game Programmer • Técnico de Suporte em Integração (Grupo SC) • Engenharia de Dados & Software**
 
-Sou um profissional de TI com formação em Programação de Jogos Digitais pela FIAP e uma base sólida em suporte técnico. Atualmente, meu foco é transformar ideias em soluções interativas e funcionais. Tenho experiência prática com Unreal Engine 5.3 e Unity, atuando no desenvolvimento de sistemas de combate, inteligência artificial, interfaces e otimização de performance.
+Formado em Programação de Jogos Digitais pela **FIAP** (2025), com experiência prática em **Unreal Engine 5**, **Unity**, **Roblox (Luau)**, **Python**, **SQL/PostgreSQL** e **Suporte & Integração de Sistemas Corporativos (EDI/APIs)**. Atuei também como **Jurado Oficial de Games no Projeto Futuro Gamer (SPCine)** em 2 edições.
 
-Busco oportunidades como Desenvolvedor Júnior, especialmente em áreas como desenvolvimento de jogos, aplicações interativas, ferramentas digitais ou sistemas internos. Tenho interesse em ambientes que incentivem prototipagem ágil, criatividade na resolução de problemas e pensamento analítico aplicado à programação. Minha meta é aplicar minhas habilidades técnicas e resiliência em um ambiente de desenvolvimento.
+[![Portfólio](https://img.shields.io/badge/Portfólio-victorramos.netlify.app-EF4444?style=flat-square&logo=netlify&logoColor=white)](https://victorramos.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victorramosbraga-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorramosbraga)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)_91822--4456-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511918224456)
+[![Telefone](https://img.shields.io/badge/Ligações-(11)_94378--9274-475569?style=flat-square&logo=phone&logoColor=white)](tel:+5511943789274)
+[![Email](https://img.shields.io/badge/E--mail-jsvramos@live.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:jsvramos@live.com)
 
----
+<details>
+<summary>🇺🇸 <strong>English Version (Click to expand)</strong></summary>
 
-### 🌐 Conecte-se comigo
+### About Me
+Digital Game Programming graduate from **FIAP** (2025) with hands-on experience in **Unreal Engine 5**, **Unity**, **Roblox (Luau)**, **Python**, **SQL/PostgreSQL**, and **IT Support & System Integration (Grupo SC)**. Also served as an Official Game Jury Member for **SPCine (Projeto Futuro Gamer)** in 2 consecutive editions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorramosbraga)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OhXyytVictor)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://victorramos.netlify.app)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jsvramos@live.com)
+- **Portfolio:** [victorramos.netlify.app](https://victorramos.netlify.app/)
+- **Games:** Camp Wars (Steam), HopeLess (Unreal Engine 5 / itch.io), Agiota BR Simulator, Runovável (Unity), Monkeyco — Demo (5 Minutos) (Unity / itch.io), Fish Tycoon (Roblox / Luau).
+- **Data & Software:** Olist E-commerce Relational Analytics, Brazilian Public Data Pipeline (BACEN API), Indie Game Studio Analytics.
+- **Contact:** WhatsApp `+55 (11) 91822-4456` | Calls `+55 (11) 94378-9274` | `jsvramos@live.com`
 
----
-
-### 🚀 Game Engines & Linguagens
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-</p>
+</details>
 
 ---
 
-### 🛠️ Ferramentas & Habilidades
+### 🎮 Jogos & Produções (Game Dev)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
-</p>
+| Projeto | Plataforma / Status | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **Camp Wars** | Steam • Em Produção | C# / Gameplay / Multiplayer | [Steam](https://store.steampowered.com/app/1850930/Camp_Wars/) |
+| **HopeLess** | itch.io • TCC Solo Dev | Unreal Engine 5 / Blueprints / IA | [itch.io](https://ohxytvictor.itch.io/hopeless) |
+| **Agiota BR Simulator** | Em Produção • Eventos | Programação / Gameplay / Simulador | *Exposição em Eventos* |
+| **Runovável** | Game Jam • Global Solution 2 | Unity / C# / Pacto Global | [itch.io](https://ecoenergeek.itch.io/runovavel) |
+| **Monkeyco — Demo (5 Minutos)** | itch.io • Demo Roguelite | Unity / C# / Roguelite | [itch.io](https://ohxytvictor.itch.io/monkeyco-demo) |
+| **Tycoon de Pesca (Fish Tycoon)** | Roblox • Solo Dev | Luau / DataStore / Rojo | [Roblox](https://www.roblox.com/pt/games/86985334533764/Tycoon-de-Pesca-Fish-Tycoon) |
 
----
-
-### 💼 Experiência Profissional
-
-- **Analista de Suporte OnSite Sr.** | IT.ALL (Set 2023 – Atualmente)
-- **Analista de Help Desk de TI** | Exago Innovation (Jan 2023 – Fev 2024)
-- **Help Desk de TI** | Malta Assessoria de Cobrança (Jun 2021 – Abr 2022)
+> 🏆 **Reconhecimento na Indústria:** Jurado Oficial de Games no **Projeto Futuro Gamer (SPCine)** — 2 edições consecutivas.
 
 ---
 
-### 🎓 Formação Acadêmica
+### 📊 Engenharia de Dados & Software
 
-- **Tecnólogo em Jogos Digitais** | FIAP (Conclusão: 2025)
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Olist E-commerce Analytics** | Pipeline ETL, modelagem relacional, análise RFM e qualidade de dados | Python, PostgreSQL, SQL | [Repositório](https://github.com/OhXyytVictor/olist-ecommerce-analytics) |
+| **Dados Públicos do Brasil** | Ingestão da API do Banco Central (IPCA, Selic, Dólar) e séries temporais | REST API, PostgreSQL, Python | [Repositório](https://github.com/OhXyytVictor/dados-publicos-brasil) |
+| **Indie Game Studio Analytics** | Diagnóstico financeiro de 24 meses (P&L, burn rate, runway) | Analytics, SQL, Dashboard | [Repositório](https://github.com/OhXyytVictor/indie-game-studio-analytics) |
+| **Portfólio Web** | Site oficial com layout Cyber-HUD multilíngue (PT/EN/ES) | Next.js, TypeScript, Tailwind | [victorramos.netlify.app](https://victorramos.netlify.app/) |
 
 ---
 
-### 🎮 Projetos
+### 🛠️ Stack Tecnológica
 
-- **Hopeless**: Jogo desenvolvido como projeto de conclusão de curso (TCC).
-  - Link para jogar: [https://ohxytvictor.itch.io/hopeless](https://ohxytvictor.itch.io/hopeless)
+- **Game Engines & Linguagens:** `Unreal Engine 5` • `Unity` • `Roblox Studio (Luau)` • `C#` • `C++` • `Python` • `Java`
+- **Web & Dados:** `TypeScript` • `Next.js` • `React` • `Flutter / Dart` • `PostgreSQL` • `SQL` • `REST APIs`
+- **Suporte, Integração & Ferramentas:** `Pedido Eletrônico / EDI` • `Troubleshooting` • `GLPI` • `Git / GitHub` • `Rojo`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=120&section=footer"/>
+---
+
+### 💼 Experiência Profissional & Formação
+
+- **Técnico de Suporte Jr em Integração** | Grupo SC / Panpharma *(Out 2026 – Atualmente)*
+- **Analista de Suporte OnSite Sr.** | IT.ALL *(Set 2023 – 2026)*
+- **Analista de Help Desk de TI** | Exago Innovation *(Jan 2023 – Fev 2024)*
+- **Help Desk de TI** | Malta Assessoria de Cobrança *(Jun 2021 – Abr 2022)*
+- **Tecnólogo em Programação de Jogos Digitais** | FIAP *(Formado em 2025)*
