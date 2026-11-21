@@ -76,6 +76,30 @@ Feito para a Game Jam da Global Solution 2, com apoio do Pacto Global, Ultragaz,
 </details>
 
 <details>
+<summary><b>Bananarquia</b> · Estratégia 2D no navegador</summary>
+<br>
+
+Um jogo de estratégia estilo cabo de guerra na Amazônia, feito na Unity (C#). Você colhe bananas, treina primatas nativos e disputa contra IA em 3 níveis ou em 2 jogadores locais no mesmo teclado.
+
+<a href="https://ohxytvictor.itch.io/bananarquia"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
+
+`Unity` `C#` `WebGL` `2D`
+
+</details>
+
+<details>
+<summary><b>Pagando Mico</b> · Endless runner 3D no navegador</summary>
+<br>
+
+Um endless runner 3D na selva feito na Unity (C#). Você corre em 3 trilhos pelos galhos com coyote time, jump buffer e desvios rápidos para fugir de uma onça.
+
+<a href="https://ohxytvictor.itch.io/pagando-mico"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
+
+`Unity` `C#` `WebGL` `3D`
+
+</details>
+
+<details>
 <summary><b>Monkeyco</b> · Demo de 5 minutos no itch.io</summary>
 <br>
 
@@ -191,7 +215,7 @@ Hi, I'm Victor. I'm a game programmer with a degree from FIAP, currently working
 
 **Highlights:** Served as an Official Game Jury Member for **SPCine's Projeto Futuro Gamer** in 2 consecutive editions; graduated in Digital Game Programming at FIAP (2025); currently programming on **Camp Wars** (Unreal Engine 5 / Steam).
 
-**Games:** Camp Wars (Unreal Engine 5 / Steam), HopeLess (Unreal Engine 5, my solo capstone), Agiota BR Simulator, Runovável (Unity), Monkeyco (Unity roguelite demo) and Fish Tycoon (Roblox).
+**Games:** Camp Wars (Unreal Engine 5 / Steam), HopeLess (Unreal Engine 5, my solo capstone), Agiota BR Simulator, Runovável (Unity), Bananarquia (Unity 2D strategy), Pagando Mico (Unity 3D runner), Monkeyco (Unity roguelite demo) and Fish Tycoon (Roblox).
 
 **Data:** Olist e-commerce analytics, Brazilian Central Bank data pipeline and an indie studio financial analysis.
 
