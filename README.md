@@ -47,7 +47,7 @@ Faço parte da programação da nova versão de Camp Wars, feita na Unreal Engin
 
 Um jogo de sobrevivência e ação que desenvolvi do zero como trabalho de conclusão de curso. Foi onde mais aprendi sobre IA de inimigos, sistemas de combate e otimização na Unreal.
 
-<a href="https://ohxytvictor.itch.io/hopeless"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
+<a href="https://simiandivision.itch.io/hopeless"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
 
 `Unreal Engine 5` `Blueprints` `IA`
 
@@ -81,7 +81,7 @@ Feito para a Game Jam da Global Solution 2, com apoio do Pacto Global, Ultragaz,
 
 Um jogo de estratégia estilo cabo de guerra na Amazônia, feito na Unity (C#). Você colhe bananas, treina primatas nativos e disputa contra IA em 3 níveis ou em 2 jogadores locais no mesmo teclado.
 
-<a href="https://ohxytvictor.itch.io/bananarquia"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
+<a href="https://simiandivision.itch.io/bananarquia"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
 
 `Unity` `C#` `WebGL` `2D`
 
@@ -93,7 +93,7 @@ Um jogo de estratégia estilo cabo de guerra na Amazônia, feito na Unity (C#). 
 
 Um endless runner 3D na selva feito na Unity (C#). Você corre em 3 trilhos pelos galhos com coyote time, jump buffer e desvios rápidos para fugir de uma onça.
 
-<a href="https://ohxytvictor.itch.io/pagando-mico"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
+<a href="https://simiandivision.itch.io/pagando-mico"><img src="https://img.shields.io/badge/Jogar_no_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar no itch.io"></a>
 
 `Unity` `C#` `WebGL` `3D`
 
@@ -105,7 +105,7 @@ Um endless runner 3D na selva feito na Unity (C#). Você corre em 3 trilhos pelo
 
 Um roguelite de sobrevivência em ondas. Você evolui um arsenal de frutas, combina tomos de upgrade e enfrenta o King Muskrat aos 5 minutos. Depois disso, dá para seguir no modo infinito e ver até onde a build aguenta.
 
-<a href="https://ohxytvictor.itch.io/monkeyco-demo"><img src="https://img.shields.io/badge/Jogar_a_demo-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar a demo"></a>
+<a href="https://simiandivision.itch.io/monkeyco-demo"><img src="https://img.shields.io/badge/Jogar_a_demo-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Jogar a demo"></a>
 
 `Unity` `C#` `Roguelite`
 
